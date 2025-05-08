@@ -1,1 +1,1 @@
-# IA_Logicas_nao_classicas
+# Inteligência Artificial - Lógicas não clássicas para Representação do Conhecimento e Raciocínio Automático
